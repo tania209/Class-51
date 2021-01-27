@@ -1,0 +1,23 @@
+h1 {
+    color: #20cccc
+}
+
+.school{
+    background-color: #50cc50;
+    display:flex;
+    justify-content: space-between;
+
+}
+.block{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+p, h2{
+    text-align: center;
+    color: #cc20cc
+}
+.hat{
+    display: flex;
+    justify-content: flex-end;
+}
